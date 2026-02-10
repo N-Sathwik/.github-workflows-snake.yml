@@ -44,3 +44,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+<div align="center">
+  <img src="https://github.com/N-Sathwik/N-Sathwik/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
+</div>
